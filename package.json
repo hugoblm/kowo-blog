@@ -1,10 +1,10 @@
 {
-  "name": "nextjs-notion-starter-kit",
+  "name": "Kowo Blog",
   "version": "2.0.0",
   "private": true,
-  "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
-  "author": "Travis Fischer <travis@transitivebullsh.it>",
-  "repository": "transitive-bullshit/nextjs-notion-starter-kit",
+  "description": "trouver les meilleurs endroits pour télétravailler près de chez vous !",
+  "author": "Hugo",
+  "repository": "",
   "license": "MIT",
   "engines": {
     "node": ">=16"
