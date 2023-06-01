@@ -19,7 +19,8 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '',
   github: '',
-  linkedin: 'kowofr',
+  linkedin: 'company/kowofr',
+  instagram: 'kowofr',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
