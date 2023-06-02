@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Kowo-blog',
   domain: 'Blog.kowo.work',
-  author: 'Hugo Blum',
+  author: 'Kowo',
 
   // open graph metadata (optional)
   description: 'Kowo Blog',
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: '',
   github: '',
-  linkedin: 'company/kowofr',
+  linkedin: 'kowofr',
   instagram: 'kowofr',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
