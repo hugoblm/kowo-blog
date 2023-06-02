@@ -72,11 +72,11 @@
   fill: var(--fg-color);
 }
 
-.facebook .actionBgPane {
-  background: #3b5998;
+.instagram .actionBgPane {
+  background: #b5004b;
 }
-.facebook:hover {
-  border-color: #3b5998;
+.instagram:hover {
+  border-color: #b5004b;
 }
 
 .twitter .actionBgPane {
