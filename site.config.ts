@@ -11,14 +11,14 @@ export default siteConfig({
   // basic site info (required)
   name: 'Kowo-blog',
   domain: 'Blog.kowo.work',
-  author: 'Kowo',
+  author: 'Kowo.work',
 
   // open graph metadata (optional)
   description: 'Kowo Blog',
 
   // social usernames (optional)
-  twitter: '',
-  github: '',
+  // twitter: '#',
+  // github: '#',
   linkedin: 'kowofr',
   instagram: 'kowofr',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
@@ -49,18 +49,20 @@ export default siteConfig({
   // }
   pageUrlOverrides: null,
 
-  // whether to use the default notion navigation style or a custom one with links to
-  // important pages
-  navigationStyle: 'default'
-  // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
+  // whether to use the default notion navigation style or a custom one with links to important pages
+ 
+  // navigationStyle: 'default'
+  navigationStyle: 'custom',
+  navigationLinks: [
+      {
+        title: 'Accueil',
+        url:`https://www.kowo.work/`
+
+      },
+      {
+        title: 'Hôte',
+        url: `https://www.kowo.work/hote`
+
+     }
+   ]
 })
