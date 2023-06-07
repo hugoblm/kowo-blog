@@ -1,4 +1,1 @@
-export function bootstrap() {
-  console.log(`                                                        
-`)
-}
+export function bootstrap() {}
