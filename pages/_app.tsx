@@ -27,7 +27,6 @@ import {
   posthogId
 } from '@/lib/config'
 
-
 export default function App({ Component, pageProps }: AppProps) {
   const router = useRouter()
 
