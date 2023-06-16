@@ -3,17 +3,17 @@
   "short_name": "Starter Kit",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/kowo_favicon_48.png",
       "type": "image/png",
-      "sizes": "32x32"
+      "sizes": "48x48"
     },
     {
-      "src": "/favicon-128x128.png",
+      "src": "/kowo_favicon_128.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/favicon-192x192.png",
+      "src": "/kowo_favicon_192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
