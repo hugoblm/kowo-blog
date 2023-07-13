@@ -60,7 +60,7 @@ export default siteConfig({
 
       },
       {
-        title: 'Hôte',
+        title: 'Devenir hôte',
         url: `https://www.kowo.work/hote`
 
      }
